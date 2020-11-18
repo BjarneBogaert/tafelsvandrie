@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace tafelsvandrie
-    class Program
+{ class Program
     {
         static void Main(string[] args)
         {
@@ -27,10 +27,10 @@ namespace tafelsvandrie
             }
             Console.ReadLine();
 
-        //afsluiting
-        Console.ReadLine();
-        Console.WriteLine("Druk op enter om af te sluiten...");
-        Console.ReadLine();
+            //afsluiting
+            Console.ReadLine();
+            Console.WriteLine("Druk op enter om af te sluiten...");
+            Console.ReadLine();
         }
     }
 }
